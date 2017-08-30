@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">il tempo</string>
+    <string name="hello_world">ciao mondo</string>
+    <string name="action_settings">configurazioni</string>
+    <string name="monday">Lunedi</string>
+    <string name="tuesday">Martedì</string>
+    <string name="wednesday">Miercoledì</string>
+    <string name="thursday">Giovedi</string>
+    <string name="frifay">Venerdi</string>
+    <string name="saturday">Sabato</string>
+    <string name="sunday">Domenica</string>
+    <string name="mist">Nebbia</string>
+    <string name="sunny">Soleggiato</string>
+    <string name="cloudy">Nuboloso</string>
+    <string name="rain">Pioggia</string>
+    <string name="noInformation">Nessuna informazione</string>
+</resources>

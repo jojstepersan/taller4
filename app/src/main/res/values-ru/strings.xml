@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">погода</string>
+    <string name="hello_world">¡привет мир!</string>
+    <string name="action_settings">конфигурации</string>
+    <string name="monday">понедельник</string>
+    <string name="tuesday">вторник</string>
+    <string name="wednesday">среда</string>
+    <string name="thursday">четверг</string>
+    <string name="frifay">пятница</string>
+    <string name="saturday">суббота</string>
+    <string name="sunday">воскресенье</string>
+    <string name="mist">туман</string>
+    <string name="sunny">солнечный</string>
+    <string name="cloudy">облачный</string>
+    <string name="rain">дождь</string>
+    <string name="noInformation">Нет информации</string>
+</resources>

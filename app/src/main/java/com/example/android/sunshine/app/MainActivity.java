@@ -80,7 +80,20 @@ public class MainActivity extends ActionBarActivity {
 
             // Es necesario definir una información dummy para la prueba, por favor agregue
             String[] data = {
-                    ""
+                    getString(R.string.monday)+" 2017/03/06- "+getString(R.string.sunny)+" - 24/17",
+                    getString(R.string.tuesday)+" 2017/03/07- "+getString(R.string.mist)+" - 24/17",
+                    getString(R.string.wednesday)+" 2017/03/08- "+getString(R.string.cloudy)+" - 24/17",
+                    getString(R.string.thursday)+" 2017/03/09- "+getString(R.string.rain)+" - 24/17",
+                    getString(R.string.frifay)+" 2017/03/10- "+getString(R.string.mist)+" - 24/17",
+                    getString(R.string.saturday)+" 2017/03/11- "+getString(R.string.noInformation)+" - 24/17",
+                    getString(R.string.sunday)+" 2017/03/12- "+getString(R.string.sunny)+" - 24/17",
+                    getString(R.string.monday)+" 2017/03/13- "+getString(R.string.sunday)+" - 24/17",
+                    getString(R.string.tuesday)+" 2017/03/14- "+getString(R.string.mist)+" - 24/17",
+                    getString(R.string.wednesday)+" 2017/03/15- "+getString(R.string.cloudy)+" - 24/17",
+                    getString(R.string.thursday)+" 2017/03/16- "+getString(R.string.rain)+" - 24/17",
+                    getString(R.string.frifay)+" 2017/03/17- "+getString(R.string.mist)+" - 24/17",
+                    getString(R.string.saturday)+" 2017/03/18- "+getString(R.string.noInformation)+" - 24/17",
+                    getString(R.string.sunday)+" 2017/03/19- "+getString(R.string.sunny)+" - 24/17",
 
             };
             List<String> weekForecast = new ArrayList<String>(Arrays.asList(data));

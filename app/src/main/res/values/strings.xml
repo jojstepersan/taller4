@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">El Clima</string>
-    <string name="hello_world">¡Hola mundo!</string>
-    <string name="action_settings">Ajustes</string>
-
+    <string name="app_name">The weather</string>
+    <string name="hello_world">¡Hello world!</string>
+    <string name="action_settings">settings</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="frifay">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">sunday</string>
+    <string name="mist">Mist</string>
+    <string name="sunny">Sunny</string>
+    <string name="cloudy">Cloudy</string>
+    <string name="rain">Rain</string>
+    <string name="noInformation">No information</string>
 </resources>
